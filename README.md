@@ -5,7 +5,7 @@ Background :
 I'm working full time as a Data Analyst Manager in a Digital Agency company. Therefore I'm in a need of a program that can run or scrape public data of Social Media. 
 
 Problem in hand : 
-Sometimes the tools that are given are having error, therefore we need to implement another program to become the safety net / another option to scrape public data in Social Media
+Sometimes our tools that currently we are subscribe to are having a lot of error, therefore we need to implement another program to become the safety net / another option to scrape public data in Social Media
 
 Solution : 
 We created a website-based scraping from python to achieve the needs.
