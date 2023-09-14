@@ -1,5 +1,5 @@
 # Instagram-Scraper
-Flask Site for scrapping instagram profile posts
+🪙 Flask Site for scrapping instagram profile posts 🪙
 
 Background : 
 I'm working full time as a Data Analyst Manager in a Digital Agency company. Therefore I'm in a need of a program that can run or scrape public data of Social Media. 
