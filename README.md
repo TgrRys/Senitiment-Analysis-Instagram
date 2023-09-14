@@ -14,7 +14,8 @@ Here's some of the screenshot and layout. Yes the UI still on development, but a
 
 <img width="1440" alt="Screenshot 2023-09-14 at 10 56 11" src="https://github.com/benayaadhi/Instagram-Scraper/assets/62541941/6fda2de0-29ed-4873-b1bd-3e001496a228">
 
-and here's the results when scrape an instagram account. 
+**and here's the results when scrape an instagram account. **
+
 <img width="1440" alt="Screenshot 2023-09-14 at 10 56 59" src="https://github.com/benayaadhi/Instagram-Scraper/assets/62541941/97b0dab1-e154-4ead-8741-843bc6d80c21">
 
 I'm using flask as my main site and creating API calls so i can fetch data easily.
